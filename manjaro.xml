@@ -129,4 +129,20 @@
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
   </wallpaper>
+  <wallpaper deleted="false">
+    <name>Cinnamon Adapta-Maia</name>
+    <filename>/usr/share/backgrounds/cinnamon-adapta-maia.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Cinnamon Brown Maia</name>
+    <filename>/usr/share/backgrounds/cinnamon-brown-maia.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
 </wallpapers>
