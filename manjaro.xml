@@ -10,6 +10,14 @@
     <scolor>#000000</scolor>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Adapta Maia</name>
+    <filename>/usr/share/backgrounds/adapta-maia.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Blacklogo Maia</name>
     <filename>/usr/share/backgrounds/blacklogo-maia.jpg</filename>
     <options>zoom</options>
@@ -18,8 +26,40 @@
     <scolor>#000000</scolor>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Cinnamon Adapta-Maia</name>
+    <filename>/usr/share/backgrounds/cinnamon-adapta-maia.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Cinnamon Adapta-Maia 2</name>
+    <filename>/usr/share/backgrounds/cinnamon-adapta-maia02.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Cinnamon Brown</name>
     <filename>/usr/share/backgrounds/cinnamon-brown.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Cinnamon Brown-Maia</name>
+    <filename>/usr/share/backgrounds/cinnamon-brown-maia.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Cinnamon Mirror</name>
+    <filename>/usr/share/backgrounds/cinnamon-mirror.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -42,7 +82,7 @@
     <scolor>#000000</scolor>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Maia Embroidered</name>
+    <name>Embroidered Maia</name>
     <filename>/usr/share/backgrounds/embroidered-maia.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
@@ -58,7 +98,7 @@
     <scolor>#000000</scolor>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Manjaro Adapta 01</name>
+    <name>Manjaro Adapta 1</name>
     <filename>/usr/share/backgrounds/manjaro-adapta01.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
@@ -66,7 +106,7 @@
     <scolor>#000000</scolor>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Manjaro Adapta 02</name>
+    <name>Manjaro Adapta 2</name>
     <filename>/usr/share/backgrounds/manjaro-adapta02.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
@@ -82,8 +122,24 @@
     <scolor>#000000</scolor>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Manjaro Cinnamon</name>
+    <filename>/usr/share/backgrounds/manjaro-cinnamon.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Manjaro Stripes</name>
     <filename>/usr/share/backgrounds/manjaro-stripes.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>MANJARO tiles</name>
+    <filename>/usr/share/backgrounds/MJR-tiles.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -100,6 +156,14 @@
   <wallpaper deleted="false">
     <name>Rez Cinnamon Logo</name>
     <filename>/usr/share/backgrounds/Rez_cinnamon_logo.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Scrabble Cinnamon</name>
+    <filename>/usr/share/backgrounds/scrabble-cinnamon.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -129,20 +193,3 @@
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
   </wallpaper>
-  <wallpaper deleted="false">
-    <name>Cinnamon Adapta-Maia</name>
-    <filename>/usr/share/backgrounds/cinnamon-adapta-maia.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Cinnamon Brown Maia</name>
-    <filename>/usr/share/backgrounds/cinnamon-brown-maia.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-</wallpapers>
