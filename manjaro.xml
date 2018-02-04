@@ -58,6 +58,14 @@
     <scolor>#000000</scolor>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Cinnamon Brown-Maia 2</name>
+    <filename>/usr/share/backgrounds/cinnamon-brown-maia02.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Cinnamon Mirror</name>
     <filename>/usr/share/backgrounds/cinnamon-mirror.jpg</filename>
     <options>zoom</options>
