@@ -2,7 +2,7 @@
 
 #set variable
 
-THEME=cinnamon
+THEME=Cinnamon
 ABSPATH=/usr/share/backgrounds/$THEME/
 
 if [ -e $THEME.xml ]; then

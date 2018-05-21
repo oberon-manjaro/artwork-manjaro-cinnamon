@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
 
-THEME      =    manjaro-cinnamon
+THEME      =    Cinnamon
 PREFIX     = 	/usr
 DPATH 	   =	$(DESTDIR)$(PREFIX)/share/backgrounds/$(THEME)
 DXMLGNOME  =    $(DESTDIR)$(PREFIX)/share/gnome-background-properties
