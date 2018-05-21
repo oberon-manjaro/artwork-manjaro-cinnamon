@@ -2,7 +2,7 @@
 
 #set variable
 
-THEME=Cinnamon
+THEME=cinnamon
 ABSPATH=/usr/share/backgrounds/$THEME/
 
 if [ -e $THEME.xml ]; then
@@ -18,7 +18,7 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
 echo "OK. Now we are creating $THEME.xml"
 
 # This script is looking for .png and .jpg files only, but you can add here another file types. The "<options>stretched</options>" should work best for unknow sized files.
-for i in $(ls *jpg); do #Note if we add png files simply add $(ls *png)
+for i in $(ls *jpg *png) ; do
 echo "<wallpaper deleted="\"false\"">
 <name>${i::(-4)}</name>
 <filename>${ABSPATH}$i</filename>
